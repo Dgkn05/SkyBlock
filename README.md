@@ -9,4 +9,4 @@ Eklentiden Görüntüler Aşağıdadır!
 
 ![screenshot](https://i.resimyukle.xyz/y5Bzzc.png)
 
-![screenshot](https://i.resimyukle.xyz/a0fcM9.png}
+![screenshot](https://i.resimyukle.xyz/a0fcM9.png)
