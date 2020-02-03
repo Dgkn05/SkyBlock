@@ -1,0 +1,19 @@
+name: SkyBlock
+main: Can\SkyBlock
+version: 1.0
+api: [3.11.4, 4.0.0]
+author: CanGunes74
+
+commands:
+ ada:
+  description: "Ada ekranını açar!"
+ oyuncutekmele:
+  description: "Oyuncuyu adandan göndermeye yarar!"
+ ortakekle:
+  description:
+ ortakcikar:
+  description: 
+ cevapla:
+  description: "Size gönderilen ortaklık davetlerini cevaplamaya yarar!"
+ fix:
+  description:
