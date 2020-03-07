@@ -15,5 +15,3 @@ commands:
   description: 
  cevapla:
   description: "Size gönderilen ortaklık davetlerini cevaplamaya yarar!"
- fix:
-  description:

@@ -18,7 +18,6 @@ use pocketmine\utils\Config;
 use pocketmine\item\Item;
 use pocketmine\level\Position;
 use pocketmine\entity\Animal;
-
 use pocketmine\plugin\PluginBase;
 use pocketmine\{Player, Server};
 
