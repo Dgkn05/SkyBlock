@@ -1,4 +1,9 @@
 # SkyBlock
+
+Version 1.0 Güncellemesi Gelmiştir
+
+Bazı Sorunlar Düzeltildi!
+
 Türkçe SkyBlock Eklentisidir!
 
 Ada Dosyasını Kendiniz Yapacaksınız Adı Kesinlikle SB olmalıdır!
